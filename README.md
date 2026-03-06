@@ -5,8 +5,8 @@ language model built entirely from scratch, with no ML framework dependencies:
 
 | File | Language | Runtime |
 |---|---|---|
-| `MicroGPT.cs` | C# 13 | `dotnet run` |
-| `MicroGPT.fsx` | **F# 9** | `dotnet fsi` |
+| `MicroGPT.cs` | C# 14 | `dotnet run` |
+| `MicroGPT.fsx` | F# 10 | `dotnet fsi` |
 
 The C# version was the original translation from Python, written to explore the algorithm in a familiar .NET stack.
 The F# version was then derived from the C# version as a natural evolution toward a more expressive, functional style.
