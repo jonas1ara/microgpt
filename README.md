@@ -69,7 +69,7 @@ Both versions accept the same CLI arguments:
 
 ## F# version — differences and advantages
 
-### Why F#?
+### A functional way
 
 F# is a functional-first language that runs on .NET, sharing the same runtime and standard library as C#. Translating
 this project to F# illustrates how the same algorithm can be expressed more concisely and with stronger compile-time
